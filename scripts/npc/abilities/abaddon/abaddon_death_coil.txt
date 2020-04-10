@@ -1,4 +1,5 @@
-#Abaddon Death Coil
+// Abaddon Death Coil
+//==================
 "abaddon_death_coil"
 	{
 		// General
