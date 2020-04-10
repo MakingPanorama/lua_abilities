@@ -1,9 +1,10 @@
+#Abaddon Death Coil
 "abaddon_death_coil"
 	{
 		// General
 		//-------------------------------------------------------------------------------------------------------------
 		"BaseClass"             		"ability_lua"
-		"ScriptFile"					"lua_abilities/abaddon/abaddon_death_coil.lua"
+		"ScriptFile"					"lua_abilities/abaddon_death_coil.lua"
 		"AbilityTextureName"			"abaddon_death_coil"
 		"AbilityBehavior"				"DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_FRIENDLY | DOTA_UNIT_TARGET_TEAM_ENEMY"
